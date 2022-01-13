@@ -1,6 +1,6 @@
 ---
 layout: default
-[//]: <> (title: )
+title: Familie Example
 ---
 
 {% include default-website-content.html %}
