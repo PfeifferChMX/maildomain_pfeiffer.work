@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Familie Example
+title: Familie Pfeiffer 
 ---
 
 {% include default-website-content.html %}
